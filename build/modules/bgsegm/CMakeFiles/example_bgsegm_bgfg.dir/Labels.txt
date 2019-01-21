@@ -1,9 +1,0 @@
-# Target labels
- Extra
- opencv_bgsegm
- Sample
-# Source files and their labels
-/home/opencv/opencv-4.0.0/opencv_contrib/modules/bgsegm/samples/bgfg.cpp
- Extra
- opencv_bgsegm
- Sample

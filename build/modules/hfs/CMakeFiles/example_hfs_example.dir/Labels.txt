@@ -1,9 +1,0 @@
-# Target labels
- Extra
- opencv_hfs
- Sample
-# Source files and their labels
-/home/opencv/opencv-4.0.0/opencv_contrib/modules/hfs/samples/example.cpp
- Extra
- opencv_hfs
- Sample

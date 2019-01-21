@@ -1,9 +1,0 @@
-# Target labels
- Extra
- opencv_ximgproc
- Sample
-# Source files and their labels
-/home/opencv/opencv-4.0.0/opencv_contrib/modules/ximgproc/samples/edgeboxes_demo.cpp
- Extra
- opencv_ximgproc
- Sample

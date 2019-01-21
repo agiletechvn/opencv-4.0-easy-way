@@ -1,9 +1,0 @@
-# Target labels
- Extra
- opencv_rgbd
- Sample
-# Source files and their labels
-/home/opencv/opencv-4.0.0/opencv_contrib/modules/rgbd/samples/linemod.cpp
- Extra
- opencv_rgbd
- Sample
