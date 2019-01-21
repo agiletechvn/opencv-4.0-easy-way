@@ -1,0 +1,9 @@
+# Target labels
+ Extra
+ opencv_optflow
+ Sample
+# Source files and their labels
+/home/opencv/opencv-4.0.0/opencv_contrib/modules/optflow/samples/gpc_train.cpp
+ Extra
+ opencv_optflow
+ Sample

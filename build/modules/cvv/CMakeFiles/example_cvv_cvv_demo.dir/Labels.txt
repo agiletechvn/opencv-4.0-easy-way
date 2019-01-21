@@ -1,0 +1,10 @@
+# Target labels
+ Extra
+ opencv_cvv
+ Sample
+# Source files and their labels
+/home/opencv/opencv-4.0.0/opencv_contrib/modules/cvv/samples/cvv_demo.cpp
+ Extra
+ opencv_cvv
+ Sample
+/home/opencv/opencv-4.0.0/build/modules/cvv/example_cvv_cvv_demo_automoc.cpp
